@@ -1,4 +1,4 @@
-#FOODIES Application
+# FOODIES Application
 
 ## Table of Contents
 - [Features](#features)
